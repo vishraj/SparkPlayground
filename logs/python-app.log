@@ -1,0 +1,76 @@
+2025-09-21 20:47:02,876 INFO [SparkPlayground.HelloSpark] Spark Application Started
+2025-09-21 20:47:02,876 INFO [SparkPlayground.HelloSpark] HelloSpark
+2025-09-21 20:47:07,528 INFO [SparkPlayground.HelloSpark] Spark Application Ended
+2025-09-21 20:47:07,529 INFO [py4j.clientserver] Closing down clientserver connection
+2025-09-25 20:51:45,266 INFO [SparkPlayground.HelloSpark] Spark Application Started
+2025-09-25 20:51:50,084 INFO [SparkPlayground.HelloSpark] Spark Application Ended
+2025-09-25 20:51:50,084 INFO [py4j.clientserver] Closing down clientserver connection
+2025-09-25 20:54:01,764 INFO [SparkPlayground.HelloSpark] Spark Application Started
+2025-09-25 20:54:02,006 INFO [py4j.clientserver] Closing down clientserver connection
+2025-09-25 20:54:23,084 INFO [SparkPlayground.HelloSpark] Spark Application Started
+2025-09-25 20:54:23,418 INFO [py4j.clientserver] Closing down clientserver connection
+2025-09-25 20:55:32,414 INFO [SparkPlayground.HelloSpark] Spark Application Started
+2025-09-25 20:55:32,647 INFO [py4j.clientserver] Closing down clientserver connection
+2025-09-25 20:55:55,014 INFO [SparkPlayground.HelloSpark] Spark Application Started
+2025-09-25 20:55:55,352 INFO [py4j.clientserver] Closing down clientserver connection
+2025-09-25 20:57:07,946 INFO [SparkPlayground.HelloSpark] Spark Application Started
+2025-09-25 20:57:12,839 INFO [SparkPlayground.HelloSpark] Spark Application Ended
+2025-09-25 20:57:12,840 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-01 22:12:32,224 INFO [SparkPlayground.HelloSpark] Spark Application Started
+2025-10-01 22:12:38,179 INFO [SparkPlayground.HelloSpark] [Row(Country='United States', count=4), Row(Country='Canada', count=2), Row(Country='United Kingdom', count=1)]
+2025-10-01 22:12:38,511 INFO [SparkPlayground.HelloSpark] Spark Application Ended
+2025-10-01 22:12:38,512 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-04 15:17:34,383 INFO [SparkPlayground.HelloSpark] Spark Application Started
+2025-10-04 15:17:39,843 INFO [SparkPlayground.HelloSpark] [Row(Country='Canada', count=2), Row(Country='United States', count=4), Row(Country='United Kingdom', count=1)]
+2025-10-04 15:46:37,504 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-05 18:41:10,752 INFO [SparkPlayground.HelloSpark] Spark Application Started
+2025-10-05 18:41:16,935 INFO [SparkPlayground.HelloSpark] [Row(Country='Canada', count=2), Row(Country='United States', count=4), Row(Country='United Kingdom', count=1)]
+2025-10-05 18:41:17,444 INFO [SparkPlayground.HelloSpark] Spark Application Ended
+2025-10-05 18:41:17,446 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-05 19:13:50,286 ERROR [SparkPlayground.HelloSparkSQL] Usage: HelloSparkSQL <filename>
+2025-10-05 19:13:50,286 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-05 19:14:42,016 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-13 16:01:39,222 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-13 16:02:55,547 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-13 16:08:36,380 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-13 16:12:39,247 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-13 16:26:25,549 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-13 16:49:03,374 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-13 16:52:44,888 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-13 18:30:22,983 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-13 18:34:06,220 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-13 18:35:50,157 INFO [SparkPlayground.DataSinkDemo] Num Partitions before: 2
+2025-10-13 18:35:50,158 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-13 18:38:06,372 INFO [SparkPlayground.DataSinkDemo] Num Partitions before: 2
+2025-10-13 18:38:08,378 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-16 17:13:44,197 INFO [SparkPlayground.DataSinkDemo] Num Partitions before: 2
+2025-10-16 17:13:46,121 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-16 17:16:56,662 INFO [SparkPlayground.DataSinkDemo] Num Partitions before: 2
+2025-10-16 17:16:59,790 INFO [SparkPlayground.DataSinkDemo] Num Partitions after: 5
+2025-10-16 17:17:01,542 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-16 17:18:42,155 INFO [SparkPlayground.DataSinkDemo] Num Partitions before: 2
+2025-10-16 17:18:46,046 INFO [SparkPlayground.DataSinkDemo] Num Partitions after: 5
+2025-10-16 17:18:50,671 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-16 17:25:42,581 INFO [SparkPlayground.DataSinkDemo] Num Partitions before: 2
+2025-10-16 17:25:46,499 INFO [SparkPlayground.DataSinkDemo] Num Partitions after: 5
+2025-10-16 17:26:48,765 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-18 19:02:32,996 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-18 19:24:50,792 INFO [SparkPlayground.SparkSQLTableDemo] [Table(name='flight_time_tbl', catalog='spark_catalog', namespace=['airline_db'], description=None, tableType='MANAGED', isTemporary=False)]
+2025-10-18 19:24:50,793 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-19 19:27:00,114 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-19 19:28:06,991 INFO [SparkPlayground.SparkSQLTableDemo] [Table(name='flight_time_tbl', catalog='spark_catalog', namespace=['airline_db'], description=None, tableType='MANAGED', isTemporary=False)]
+2025-10-19 19:28:06,992 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-19 20:12:47,578 INFO [SparkPlayground.SparkDataTransformations] Num partitions: 2
+2025-10-19 20:12:48,604 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-23 20:21:18,150 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-23 20:25:16,837 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-23 20:28:03,947 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-23 20:29:16,547 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-30 15:10:11,754 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-30 16:06:23,602 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-30 16:17:49,308 INFO [SparkPlayground.UDFDemo] Function(name='parse_gender_udf', catalog=None, namespace=None, description='N/A.', className='org.apache.spark.sql.classic.UDFRegistration$$Lambda/0x00000008011315a8', isTemporary=True)
+2025-10-30 16:17:50,209 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-30 17:12:22,221 INFO [SparkPlayground.UDFDemo] Catalog entry:
+2025-10-30 17:12:28,393 INFO [py4j.clientserver] Closing down clientserver connection
+2025-10-30 17:14:28,115 INFO [SparkPlayground.UDFDemo] Catalog entry:
+2025-10-30 17:14:33,019 INFO [py4j.clientserver] Closing down clientserver connection

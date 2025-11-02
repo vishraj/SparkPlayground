@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Oct 19 19:27:55 PDT 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0199-ff71-dab0-0000014d2770 
+on database directory /Users/vishwak/projects/personal_projects/SparkPlayground/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@64b8f8f4 
+Loaded from file:/Users/vishwak/softwares/Spark/spark-4.0.0-bin-hadoop3/jars/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.4+7-LTS
+user.dir=/Users/vishwak/projects/personal_projects/SparkPlayground
+os.name=Mac OS X
+os.arch=x86_64
+os.version=15.6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
